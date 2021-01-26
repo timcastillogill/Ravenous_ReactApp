@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Ravenous React App
+
+This is a React web app that pulls restaurant data from the Yelp API in order for a user to view restaurants in the area they input. They can order by review count, review rating and best match.
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Ravenous React App
