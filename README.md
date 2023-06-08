@@ -2,6 +2,8 @@
 
 This is a React web app that pulls restaurant data from the Yelp API in order for a user to view restaurants in the area they input. They can order by review count, review rating and best match.
 
+![Screenshot of Home Page](Ravenous_screenshot.png)
+
 ---
 
 ## Getting Started with Create React App
